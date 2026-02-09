@@ -1,4 +1,14 @@
-# AI-
+# AI-Code
+
+|公司|价格|国内|国际|
+|-|-|-|-|
+|阿里|$10 $30 $100|通义灵码(https://lingma.aliyun.com/pricing)|qoder(https://qoder.com/pricing)|
+|字节trae|$10($3)|https://www.trae.cn/pricing|https://www.trae.ai/pricing|
+|智谱|包季60 300 600|https://bigmodel.cn/glm-coding|https://z.ai/subscribe|
+|minimax|29 49 119|https://platform.minimaxi.com/subscribe/coding-plan|https://platform.minimax.io/subscribe/coding-plan|
+|kimi|49 99 199|https://www.kimi.com/code|-|
+|腾讯CodeBuddy|-|https://www.codebuddy.cn/pricing|https://www.codebuddy.ai/pricing|
+
 
 |名称|公司|CLI|IDE|插件|开源|链接|star|
 |-|-|-|-|-|-|-|-|
@@ -19,4 +29,5 @@
 |Zed|-|❌|✅|❌|开源|https://github.com/zed-industries/zed|75K|
 |OpenClaw|-|❌|❌|❌|开源|https://github.com/openclaw/openclaw|180K|
 |Blackbox.AI|加拿大/美国|❌|❌|❌|闭源|-|-|
-|kimi-cli|MoonshotAI|✅|❌|❌|开源|https://github.com/MoonshotAI/kimi-cli|7K|
+|kimi-cli|MoonshotAI|✅|❌|✅|开源|https://github.com/MoonshotAI/kimi-cli|7K|
+|qwen-code|阿里|✅|❌|❌|开源|https://github.com/QwenLM/qwen-code|18K|
