@@ -34,4 +34,5 @@
 |Aider|Aider-AI|✅|❌|❌|开源|https://github.com/Aider-AI/aider|41K|
 |chaterm|中国合合信息（扫描全能王）|✅|❌|❌|开源|https://github.com/chaterm/chaterm|2.5K|
 |feelingai|中国|-|-|-|-|https://github.com/feelingai-team/CodeBrain|-|
-
+|Warp|美国纽约|✅|❌|❌|-|https://github.com/warpdotdev/Warp|26K|
+|VerdentAI|中国|❌|✅|❌|-|-|-|
